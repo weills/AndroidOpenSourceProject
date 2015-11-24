@@ -130,6 +130,12 @@ Vanilla Music Player for Android (abandoned)
 A Free, Fully Fledged, Open-Source Music Player for Android    
 [https://github.com/eddturtle/TurtlePlayer](https://github.com/eddturtle/TurtlePlayer)
 
+1. **Timber**  
+
+   Material Design Music Player
+
+[https://github.com/naman14/Timber](https://github.com/naman14/Timber)
+
 
 
 
@@ -280,6 +286,11 @@ Implementation of Instagram with Material Design (originally based on Emmanuel P
 1. **OpenLibra-Material**  
 OpenLibra client on Material Design             
 [https://github.com/saulmm/OpenLibra-Material](https://github.com/saulmm/OpenLibra-Material)
+
+1. **FilveFlavours**  
+主要已GG,MD控件和风格做的app,目前功能正在添加中。         
+[https://github.com/l123456789jy/FilveFlavours](https://github.com/l123456789jy/FilveFlavours)
+
 
 
 
